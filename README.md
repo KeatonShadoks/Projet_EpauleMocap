@@ -1,4 +1,4 @@
-README
+Projet_EpauleMocap
 ================================
 
 CodeTest
