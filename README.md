@@ -1,9 +1,13 @@
 Projet_EpauleMocap
 ================================
 
-CodeTest
+CodeTestsVrac
 ------------
-Contient les codes en progression
+(Archivage) Contient les petits codes de test (mini-modules/fonctions)
+
+CodeModules
+------------
+Contient les codes plus complets de modules en cours d'améliorations
 
 NatNetSDK
 ------------
