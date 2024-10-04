@@ -9,15 +9,7 @@ import numpy as np
 import math
 from scipy.spatial.transform import Rotation as R
 
-'''
-v1 = np.array([1, 0, -1])
-v2 = np.array([1, -1, -1])
-v3 = np.array([1, -1, -1])
 
-u1 = np.array([1, 0, -1])
-u2 = np.array([1, -1, -1])
-u3 = np.array([1, -1, -1])
-'''
 
 
 #DEFINITION REPERES

@@ -138,7 +138,7 @@ def calcul_vect_repeteAVANTBRAS(US, RS, EL, EM):
     v = RS-US
     
     xf = np.cross(u, v)
-    zf = np.cross(xf, ys)
+    zf = np.cross(xf, yf)
     
     return xf, yf, zf
 
